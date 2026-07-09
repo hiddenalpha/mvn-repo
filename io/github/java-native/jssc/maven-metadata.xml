@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+	<groupId>io.github.java-native</groupId>
+	<artifactId>jssc</artifactId>
+	<versioning>
+		<latest>0.0.0-20260709.075637-g5ab3fdacc88c</latest>
+		<release>0.0.0-20260709.075637-g5ab3fdacc88c</release>
+		<snapshot>
+			<timestamp>20260709.221442</timestamp>
+			<buildNumber>1</buildNumber>
+		</snapshot>
+		<versions>
+			<version>2.10.2</version>
+			<version>0.0.0-20260709.075637-g5ab3fdacc88c</version>
+		</versions>
+		<snapshotVersions>
+			<snapshotVersion>
+				<extension>pom</extension>
+				<value>2.10.3-20260709.221442-1</value>
+				<updated>20260709222919</updated>
+			</snapshotVersion>
+			<snapshotVersion>
+				<extension>jar</extension>
+				<value>2.10.3-20260709.221442-1</value>
+				<updated>20260709222919</updated>
+			</snapshotVersion>
+			<snapshotVersion>
+				<extension>jar</extension>
+				<classifier>sources</classifier>
+				<value>2.10.3-20260709.221442-1</value>
+				<updated>20260709222919</updated>
+			</snapshotVersion>
+		</snapshotVersions>
+		<lastUpdated>20260709102107</lastUpdated>
+	</versioning>
+</metadata>

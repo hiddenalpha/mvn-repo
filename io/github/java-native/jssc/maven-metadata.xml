@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+	<groupId>io.github.java-native</groupId>
+	<artifactId>jssc</artifactId>
+	<versioning>
+		<latest>2.10.3-hiddenalpha.1</latest>
+		<release>2.10.3-hiddenalpha.1</release>
+		<snapshot>
+			<timestamp>20260818.204644</timestamp>
+			<buildNumber>2</buildNumber>
+		</snapshot>
+		<versions>
+			<version>2.10.2</version>
+			<version>0.0.0-20260709.075637-g5ab3fdacc88c</version>
+			<version>2.10.3-hiddenalpha.1</version>
+			<version>2.10.3-SNAPSHOT</version>
+		</versions>
+		<lastUpdated>20260819193046</lastUpdated>
+	</versioning>
+</metadata>
